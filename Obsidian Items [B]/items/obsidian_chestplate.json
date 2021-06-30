@@ -37,21 +37,20 @@
       "minecraft:wearable": {
         "dispensable": true,
         "slot": "slot.armor.chest"
+      },
+      "minecraft:enchantable": {
+        "value": 25,
+        "slot": "armor_torso"
+      },
+
+      "minecraft:repairable": {
+        "repair_items": [
+          {
+            "items": ["obsidian_items:obsidian_ingot"],
+            "repair_amount": 173
+          }
+        ]
       }
-    },
-
-    "minecraft:enchantable": {
-      "value": 25,
-      "slot": "armor_torso"
-    },
-
-    "minecraft:repairable": {
-      "repair_items": [
-        {
-          "items": ["obsidian_items:obsidian_ingot"],
-          "repair_amount": 173
-        }
-      ]
     }
   }
 }

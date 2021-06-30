@@ -7,7 +7,7 @@
     },
     "components": {
       "minecraft:icon": "obsidian_shovel",
-      "minecraft:render_offsets": "main_hand"
+      "minecraft:render_offsets": "tools"
     }
   }
 }

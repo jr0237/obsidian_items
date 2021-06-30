@@ -7,7 +7,7 @@
     },
     "components": {
       "minecraft:icon": "obsidian_axe",
-      "minecraft:render_offset": "main_hand"
+      "minecraft:render_offset": "tools"
     }
   }
 }
