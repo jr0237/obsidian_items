@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "obsidian_items:obsidian_axe",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "obsidian_axe",
+      "minecraft:render_offset": "main_hand"
+    }
+  }
+}

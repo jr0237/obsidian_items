@@ -1,0 +1,12 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "obsidian_items:obsidian_helmet",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "obsidian_helmet"
+    }
+  }
+}

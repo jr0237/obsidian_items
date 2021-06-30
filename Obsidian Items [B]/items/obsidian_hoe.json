@@ -1,0 +1,47 @@
+{
+  "format_version": "1.16.100",
+
+  "minecraft:item": {
+    "description": {
+      "identifier": "obsidian_items:obsidian_hoe",
+      "category": "Equipment"
+    },
+
+    "components": {
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.hoe"
+      },
+
+      "minecraft:max_stack_size": 1,
+      "minecraft:hand_equipped": true,
+      "tag:minecraft:digger": {},
+      "tag:minecraft:is_hoe": {},
+      "tag:minecraft:is_tool": {},
+
+      "minecraft:durability": {
+        "max_durability": 2131
+      },
+
+      "minecraft:damage": 6,
+      "minecraft:enchantable": {
+        "value": 22,
+        "slot": "hoe"
+      },
+
+      "minecraft:icon": {
+        "texture": "obsidian_hoe"
+      },
+
+      "minecraft:repairable": {
+        "repair_items": [
+          {
+            "items": "obsidian_items:obsidian_ingot",
+            "repair_amount": 533
+          }
+        ]
+      },
+
+      "minecraft:weapon": {}
+    }
+  }
+}

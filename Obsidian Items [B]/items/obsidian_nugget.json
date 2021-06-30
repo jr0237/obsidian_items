@@ -1,0 +1,15 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "identifier": "obsidian_items:obsidian_nugget",
+      "category": "Items"
+    },
+
+    "components": {
+      "minecraft:icon": {
+        "texture": "obsidian_nugget"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": "1.12.000",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "obsidian_items_helmet"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["OOO", "O O"],
+    "key": {
+      "O": {
+        "item": "obsidian_items:obsidian_ingot"
+      }
+    },
+    "result": {
+      "item": "obsidian_items:obsidian_helmet"
+    }
+  }
+}

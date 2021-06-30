@@ -1,0 +1,11 @@
+{
+  "format_version": [1, 1, 0],
+  "obsidian_items:obsidian_nugget_block": {
+    "textures": {
+      "up": "obsidian_nugget_block_top",
+      "down": "obsidian_nugget_block_top",
+      "side": "obsidian_nugget_block_side"
+    },
+    "sound": "stone"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "obsidian_items_scrap"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["OOO", "OOO", "OOO"],
+    "key": {
+      "O": {
+        "item": "obsidian_items:obsidian_nugget"
+      }
+    },
+    "result": "obsidian_items:obsidian_scrap"
+  }
+}

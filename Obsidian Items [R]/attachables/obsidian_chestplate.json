@@ -1,0 +1,22 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "obsidian_items:obsidian_chestplate",
+
+      "materials": {
+        "default": "armor",
+        "enchanted": "armor_enchanted"
+      },
+      "textures": {
+        "default": "textures/models/armor/obsidian_1",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "geometry": {
+        "default": "geometry.humanoid.armor.chestplate"
+      },
+
+      "render_controllers": ["controller.render.armor"]
+    }
+  }
+}

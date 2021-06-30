@@ -1,0 +1,42 @@
+{
+  "resource_pack_name": "Obsidian items[R]",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "obsidian_ingot": {
+      "textures": "textures/items/obsidian_ingot"
+    },
+    "obsidian_scrap": {
+      "textures": "textures/items/obsidian_scrap"
+    },
+    "obsidian_nugget": {
+      "textures": "textures/items/obsidian_nugget"
+    },
+    "obsidian_sword": {
+      "textures": "textures/items/obsidian_sword"
+    },
+    "obsidian_pickaxe": {
+      "textures": "textures/items/obsidian_pickaxe"
+    },
+    "obsidian_axe": {
+      "textures": "textures/items/obsidian_axe"
+    },
+    "obsidian_hoe": {
+      "textures": "textures/items/obsidian_hoe"
+    },
+    "obsidian_shovel": {
+      "textures": "textures/items/obsidian_shovel"
+    },
+    "obsidian_helmet": {
+      "textures": "textures/items/obsidian_helmet"
+    },
+    "obsidian_chestplate": {
+      "textures": "textures/items/obsidian_chestplate"
+    },
+    "obsidian_leggings":{
+      "textures": "textures/items/obsidian_leggings"
+    },
+    "obsidian_boots":{
+      "textures": "textures/items/obsidian_boots"
+    }
+  }
+}

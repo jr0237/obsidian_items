@@ -1,0 +1,21 @@
+{
+  "format_version": "1.12.000",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "obsidian_items_shovel"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["O", "S", "S"],
+    "key": {
+      "O": {
+        "item": "obsidian_items:obsidian_ingot"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "obsidian_items:obsidian_shovel"
+    }
+  }
+}
