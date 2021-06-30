@@ -44,21 +44,21 @@
             "speed": 12
           }
         ]
+      },
+
+      "minecraft:enchantable": {
+        "value": 22,
+        "slot": "shovel"
+      },
+
+      "minecraft:repairable": {
+        "repair_items": [
+          {
+            "items": "obsidian_items:obsidian_ingot",
+            "repair_amount": 533
+          }
+        ]
       }
-    },
-
-    "minecraft:enchantable": {
-      "value": 22,
-      "slot": "shovel"
-    },
-
-    "minecraft:repairable": {
-      "repair_items": [
-        {
-          "items": "obsidian_items:obsidian_ingot",
-          "repair_amount": 533
-        }
-      ]
     }
   }
 }

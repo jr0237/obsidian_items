@@ -31,26 +31,26 @@
           "min": 60,
           "max": 100
         }
+      },
+
+      "minecraft:wearable": {
+        "dispensable": true,
+        "slot": "slot.armor.head"
+      },
+
+      "minecraft:enchantable": {
+        "value": 25,
+        "slot": "armor_head"
+      },
+
+      "minecraft:repairable": {
+        "repair_items": [
+          {
+            "items": ["obsidian_items:obsidian_ingot"],
+            "repair_amount": 127
+          }
+        ]
       }
-    },
-
-    "minecraft:wearable": {
-      "dispensable": true,
-      "slot": "slot.armor.head"
-    },
-
-    "minecraft:enchantable": {
-      "value": 25,
-      "slot": "armor_head"
-    },
-
-    "minecraft:repairable": {
-      "repair_items": [
-        {
-          "items": ["obsidian_items:obsidian_ingot"],
-          "repair_amount": 127
-        }
-      ]
     }
   }
 }
