@@ -14,29 +14,24 @@
 
       "minecraft:max_stack_size": 1,
       "minecraft:hand_equipped": true,
-      "minecraft:durability": {
-        "max_durability": 2131
-      },
-
+      "minecraft:mining_speed": 12.0,
       "minecraft:damage": 5,
-      "minecraft:enchantable": {
-        "value": 22,
-        "slot": "shovel"
-      },
+      "minecraft:weapon": {},
+
+      "tag:minecraft:digger": {},
+      "tag:minecraft:is_shovel": {},
+      "tag:minecraft:is_tool": {},
 
       "minecraft:icon": {
         "texture": "obsidian_shovel"
       },
 
-      "minecraft:weapon": {},
-
-      "minecraft:repairable": {
-        "repair_items": [
-          {
-            "items": "obsidian_items:obsidian_ingot",
-            "repair_amount": 533
-          }
-        ]
+      "minecraft:durability": {
+        "max_durability": 2131,
+        "damage_chance": {
+          "min": 60,
+          "max": 100
+        }
       },
 
       "minecraft:digger": {
@@ -49,12 +44,21 @@
             "speed": 12
           }
         ]
-      },
-      "tag:minecraft:digger": {},
-      "tag:minecraft:is_shovel": {},
-      "minecraft:mining_speed": 12.0,
-      "tag:minecraft:is_tool": {},
-      "tag:minecraft:netherite_tier": {}
+      }
+    },
+
+    "minecraft:enchantable": {
+      "value": 22,
+      "slot": "shovel"
+    },
+
+    "minecraft:repairable": {
+      "repair_items": [
+        {
+          "items": "obsidian_items:obsidian_ingot",
+          "repair_amount": 533
+        }
+      ]
     }
   }
 }

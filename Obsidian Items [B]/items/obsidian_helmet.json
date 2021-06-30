@@ -5,43 +5,24 @@
       "identifier": "obsidian_items:obsidian_helmet",
       "category": "equipment"
     },
+
     "components": {
       "minecraft:creative_category": {
         "parent": "itemGroup.name.helmet"
       },
+      "minecraft:max_stack_size": 1,
+      "tag:minecraft:is_armor": {},
+
       "minecraft:icon": {
         "texture": "obsidian_helmet"
-      },
-
-      "minecraft:max_stack_size": 1,
-
-      "minecraft:enchantable": {
-        "value": 25,
-        "slot": "armor_head"
       },
 
       "minecraft:armor": {
         "protection": 4
       },
 
-      "tag:minecraft:is_armor": {},
-
       "minecraft:knockback_resistance": {
         "protection": 0.2
-      },
-
-      "minecraft:repairable": {
-        "repair_items": [
-          {
-            "items": ["obsidian_items:obsidian_ingot"],
-            "repair_amount": 127
-          }
-        ]
-      },
-
-      "minecraft:wearable": {
-        "dispensable": true,
-        "slot": "slot.armor.head"
       },
 
       "minecraft:durability": {
@@ -51,6 +32,25 @@
           "max": 100
         }
       }
+    },
+
+    "minecraft:wearable": {
+      "dispensable": true,
+      "slot": "slot.armor.head"
+    },
+
+    "minecraft:enchantable": {
+      "value": 25,
+      "slot": "armor_head"
+    },
+
+    "minecraft:repairable": {
+      "repair_items": [
+        {
+          "items": ["obsidian_items:obsidian_ingot"],
+          "repair_amount": 127
+        }
+      ]
     }
   }
 }
