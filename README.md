@@ -20,45 +20,45 @@ Se introducen nuevos materiales como lo son:
 
 > **Fragmento pequeño de obsidiana**
 >
->![Fragmento pequeño de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_nugget.png)
+>![Fragmento pequeño de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_nugget.png)
 
 El fragmento pequeño se obtiene al pasar un bloque de obsidiana por el cortador de piedra.
 
-![enter image description here](https://github.com/jr0237/obsidian_items/raw/main/scr/images/capturas/stonecuuter2.png)
+![enter image description here](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/stonecuuter2.png)
 ##
 > **Fragmento de obsidiana**
 >
-> ![Fragmento de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_scrap.PNG)
+> ![Fragmento de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_scrap.PNG)
 
 El fragmento de obsidiana se usa para crear las herramientas y armadura. Se puede obtener **únicamente** poniendo 9 fragmentos pequeños en la mesa de fabricación.
 
-![Creacion fragmento de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/capturas/scrap.png)
+![Creacion fragmento de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/scrap.png)
  
  ##
  > **Lingote de obsidiana**
 >
->![Lingote de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_ingot.png)
+>![Lingote de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_ingot.png)
 
 El lingote de obsidiana se obtiene **unicamente** fundiendo un **fragmento de obsidiana** en el **horno de fusión**.
 
-![enter image description here](https://github.com/jr0237/obsidian_items/raw/main/scr/images/capturas/blast_furnace2.png)
+![enter image description here](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/blast_furnace2.png)
 
 > Horno de fusión
 >
-> <img src="https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/blast_furnace_gif_.gif" width="100">
+> <img src="https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/blast_furnace_gif_.gif" width="100">
 
 # Herramientas
-![Espada de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_sword.png)
-![Hacha de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_axe.png)
-![Pico de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_pickaxe.png)
-![Azada de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_hoe.png)
-![Pala de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_shovel.png)
+![Espada de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_sword.png)
+![Hacha de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_axe.png)
+![Pico de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_pickaxe.png)
+![Azada de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_hoe.png)
+![Pala de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_shovel.png)
 
 Se añaden nuevas herramientas como:
 
 > **Espada de obsidiana**
 >
->![Espada de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_sword.png)
+>![Espada de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_sword.png)
 >
 > **Daño**: +8
 > 
@@ -73,11 +73,11 @@ Se añaden nuevas herramientas como:
 >
 >**Receta - Espada de obsidiana**
 >
->![Receta de espada de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/capturas/recipes/cropped-images/crafting_table_sword.png)
+>![Receta de espada de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/recipes/cropped-images/crafting_table_sword.png)
 ##
 > **Hacha de obsidiana**
 >
->![Hacha de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_axe.png)
+>![Hacha de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_axe.png)
 > 
 > **Daño**: +10
 >
@@ -92,12 +92,12 @@ Se añaden nuevas herramientas como:
 >
 >**Receta - Hacha de obsidiana**
 >
->![Receta de hacha de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/capturas/recipes/cropped-images/crafting_table_axe.png)
+>![Receta de hacha de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/recipes/cropped-images/crafting_table_axe.png)
 
 ##
 > **Pico de obsidiana**
 >
->![Pico de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_pickaxe.png)
+>![Pico de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_pickaxe.png)
 >
 > **Daño**: +6
 >
@@ -112,12 +112,12 @@ Se añaden nuevas herramientas como:
 >
 >**Receta - Pico de obsidiana**
 >
->![Receta de pico de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/capturas/recipes/cropped-images/crafting_table_pickaxe.png)
+>![Receta de pico de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/recipes/cropped-images/crafting_table_pickaxe.png)
 
 ##
 > **Azada de obsidiana**
 >
->![Azada de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_hoe.png)
+>![Azada de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_hoe.png)
 >
 > **Daño**: +6
 >
@@ -132,11 +132,11 @@ Se añaden nuevas herramientas como:
 >
 >**Receta - Azada de obsidiana**
 >
->![Receta de azada de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/capturas/recipes/cropped-images/crafting_table_hoe.png)
+>![Receta de azada de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/recipes/cropped-images/crafting_table_hoe.png)
 ##
 > **Pala de obsidiana**
 >
->![Pala de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_shovel.png)
+>![Pala de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_shovel.png)
 >
 > **Daño**: +6
 >
@@ -151,15 +151,15 @@ Se añaden nuevas herramientas como:
 >
 >**Receta - Pala de obsidiana**
 >
->![Receta de pala de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/capturas/recipes/cropped-images/crafting_table_shovel.png)
+>![Receta de pala de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/recipes/cropped-images/crafting_table_shovel.png)
 ##
 # Armadura
-![Armadura y su variante encantada de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/capturas/armor.png)
+![Armadura y su variante encantada de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/armor.png)
 
 Se incorporan nuevas piezas de armadura como:
 > **Casco de obsidiana**
 >
->![Casco de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_helmet.png)
+>![Casco de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_helmet.png)
 >
 > **Protección**: +4
 >
@@ -174,11 +174,11 @@ Se incorporan nuevas piezas de armadura como:
 >
 >**Receta - Casco de obsidiana**
 >
->![Receta de casco de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/capturas/recipes/cropped-images/crafting_table_helmet.png)
+>![Receta de casco de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/recipes/cropped-images/crafting_table_helmet.png)
 ##
 > **Coraza de obsidiana**
 >
->![Coraza de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_chestplate.png)
+>![Coraza de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_chestplate.png)
 >
 > **Protección**: +9
 >
@@ -193,11 +193,11 @@ Se incorporan nuevas piezas de armadura como:
 >
 >**Receta - Coraza de obsidiana**
 >
->![Receta de coraza de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/capturas/recipes/cropped-images/crafting_table_chestplate.png)
+>![Receta de coraza de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/recipes/cropped-images/crafting_table_chestplate.png)
 ##
 > **Mallas de obsidiana**
 >
->![Mallas de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_leggings.png)
+>![Mallas de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_leggings.png)
 >
 > **Protección**: +7
 >
@@ -212,11 +212,11 @@ Se incorporan nuevas piezas de armadura como:
 >
 >**Receta - Mallas de obsidiana**
 >
->![Receta de mallas de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/capturas/recipes/cropped-images/crafting_table_leggings.png)
+>![Receta de mallas de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/recipes/cropped-images/crafting_table_leggings.png)
 ##
 > **Botas de obsidiana**
 >
->![Botas de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/items/obsidian_boots.png)
+>![Botas de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_boots.png)
 >
 > **Protección**: +4
 >
@@ -231,5 +231,5 @@ Se incorporan nuevas piezas de armadura como:
 
 >**Receta - Botas de obsidiana**
 >
->![Receta de coraza de obsidiana](https://github.com/jr0237/obsidian_items/raw/main/scr/images/capturas/recipes/cropped-images/crafting_table_boots.png)
+>![Receta de coraza de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/recipes/cropped-images/crafting_table_boots.png)
 
