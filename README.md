@@ -1,12 +1,18 @@
 ﻿# Obsidian_Items
-
-El addon añade nuevas herramientas de obsidiana, además de algunos materiales nuevos para la creación de las herramientas.
+El addon añade nuevas herramientas de obsidiana, además de algunos materiales nuevos para la creación de las herramientas y armaduras.
 
 ### Indice:
 
- - ["Materiales"](#materiales)
- - ["Herramientas"](#herramientas)
- -  ["Armadura"](#armadura)
+ - [<code>"Materiales"</code>](#materiales)
+ - [<code>"Herramientas"</code>](#herramientas)
+ -  [<code>"Armadura"</code>](#armadura)
+
+# Descargas
+Para descargar el addon abre el siguiente enlace:
+ [<code>Obsidian_Items(v1 Beta).mcaddon</code>](https://github.com/jr0237/obsidian_items/blob/master/export/Obsidian_Items%20(v1%20Beta).mcaddon)
+
+### Instalación
+Para poder instalar el addon abre el archivo con extensión <code>.mcaddon</code> que descargaste anteriormente y el archivo se importara automáticamente.
 
 # Materiales
 
