@@ -6,7 +6,7 @@ El addon añade nuevas herramientas de obsidiana, además de algunos materiales 
  - [<code>Materiales</code>](#materiales)
  - [<code>Herramientas</code>](#herramientas)
  - [<code>Armadura</code>](#armadura)
- - [<code>Registro de cambios</code>](#armadura)
+ - [<code>Registro de cambios</code>](##registro-de-cambios)
 
 
 # Descargas
