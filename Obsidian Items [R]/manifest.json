@@ -12,7 +12,7 @@
     "description": "Obsidian items",
     "version": [
       0,
-      0,
+      1,
       1
     ],
     "min_engine_version": [
@@ -28,7 +28,7 @@
       "description": "Obsidian items",
       "version": [
         0,
-        0,
+        1,
         1
       ],
       "uuid": "a08e9cc7-f13f-49ae-9b79-4e80afbea79b"
