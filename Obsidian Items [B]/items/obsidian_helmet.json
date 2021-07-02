@@ -10,6 +10,7 @@
       "minecraft:creative_category": {
         "parent": "itemGroup.name.helmet"
       },
+
       "minecraft:max_stack_size": 1,
       "tag:minecraft:is_armor": {},
 
@@ -34,7 +35,6 @@
       },
 
       "minecraft:wearable": {
-        "dispensable": true,
         "slot": "slot.armor.head"
       },
 

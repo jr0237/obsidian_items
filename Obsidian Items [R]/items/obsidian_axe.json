@@ -3,7 +3,7 @@
   "minecraft:item": {
     "description": {
       "identifier": "obsidian_items:obsidian_axe",
-      "category": "Nature"
+      "category": "Equipament"
     },
     "components": {
       "minecraft:icon": "obsidian_axe",
