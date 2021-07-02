@@ -5,16 +5,32 @@ El addon añade nuevas herramientas de obsidiana, además de algunos materiales 
 
  - [<code>Materiales</code>](#materiales)
  - [<code>Herramientas</code>](#herramientas)
- -  [<code>Armadura</code>](#armadura)
+ - [<code>Armadura</code>](#armadura)
+ - [<code>Registro de cambios</code>](#armadura)
+
 
 # Descargas
 Para descargar el addon abre el siguiente enlace:
 
-[<code>Obsidian_Items(v1 Beta).mcaddon</code>](https://github.com/jr0237/obsidian_items/blob/master/export/Obsidian_Items%20(v1%20Beta).mcaddon)
+[<code>Obsidian Items_v1.1.mcaddon</code>](https://github.com/jr0237/obsidian_items/raw/master/export/Obsidian%20Items_v1.1.mcaddon)
 
 ### Instalación
 Para poder instalar el addon abre el archivo con extensión <code>.mcaddon</code> que descargaste anteriormente y el archivo se importara automáticamente.
 
+# Registro de cambios
+
+```
+- versión 1.1:
+	Se corrigieron los comportamientos de desgaste de las 
+	herramientas añadiendo un evento ("minecraft:break").
+	
+	Se corrigen los comportamientos de las herramientas al 
+	romper bloques, ya que algunos bloques no se podían 
+	romper con las herramientas. 
+
+ - versión 1:
+ versión inicial
+```
 # Materiales
 
 Se introducen nuevos materiales como lo son:
