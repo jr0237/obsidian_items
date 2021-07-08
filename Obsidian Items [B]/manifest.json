@@ -1,47 +1,29 @@
 {
   "format_version": 2,
   "metadata": {
-    "authors": [
-      "jr0237"
-    ],
+    "authors": ["jr0237"],
     "url": "https://github.com/jr0237/obsidian_items",
-    "license": "GNU"
+    "license": "GNU GENERAL PUBLIC LICENSE"
   },
   "header": {
-    "description": "Obsidian items",
-    "name": "§2[B]§r Obsidian items §7[v1]§r",
+    "description": "Obsidian items. Created by jr0237. Do not distribute unfairly.",
+    "name": "§2[B]§r Obsidian items §7[v1.1]§r",
     "uuid": "0c5a7288-f34f-4a19-a895-7644fb73cf05",
-    "version": [
-      0,
-      1,
-      1
-    ],
-    "min_engine_version": [
-      1,
-      16,
-      100
-    ]
+    "version": [0, 1, 1],
+    "min_engine_version": [1, 16, 100]
   },
   "modules": [
     {
       "description": "Created by jr0237. Do not distribute unfairly.",
       "type": "data",
       "uuid": "31a03df0-b31a-41a8-9d76-bd53f004ea23",
-      "version": [
-        0,
-        1,
-        1
-      ]
+      "version": [0, 1, 1]
     }
   ],
   "dependencies": [
     {
       "uuid": "3ec8c357-f3f5-4534-b557-6706a044ac0c",
-      "version": [
-        0,
-        0,
-        1
-      ]
+      "version": [0, 1, 1]
     }
   ]
 }
