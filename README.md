@@ -12,7 +12,7 @@ El addon añade nuevas herramientas de obsidiana, además de algunos materiales 
 # Descargas
 Para descargar el addon abre el siguiente enlace:
 
-[<code>Obsidian Items_v1.1.mcaddon</code>](https://github.com/jr0237/obsidian_items/raw/master/export/Obsidian%20Items_v1.1.mcaddon)
+[<code>Obsidian Items_v1.1.mcaddon</code>](https://github.com/jr0237/obsidian_items/raw/master/export/release/Obsidian%20Items_v1.1.mcaddon)
 
 ### Instalación
 Para poder instalar el addon abre el archivo con extensión <code>.mcaddon</code> que descargaste anteriormente y el archivo se importara automáticamente.
