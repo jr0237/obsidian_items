@@ -1,0 +1,12 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.obsdian_items": {
+      "geometry": "geometry.obsidian_shield",
+
+      "textures": ["Texture.obsidian_shield"],
+
+      "materials": [{ "*": "Material.shield" }]
+    }
+  }
+}
