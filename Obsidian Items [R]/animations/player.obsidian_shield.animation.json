@@ -1,0 +1,23 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.player.obsidian_shield.main_hand.first_person": {
+      "loop": true,
+      "bones": {
+        "rightitem": {
+          "rotation": [
+            "c.is_first_person ? 120 : 0",
+            "c.is_first_person ? -180 : 0",
+            "c.is_first_person ? 45 : 0"
+          ],
+          "position": [
+            "c.is_first_person ? 10 : 0",
+            "c.is_first_person ? 10 : 0",
+            "c.is_first_person ? 5 : 0"
+          ],
+          "scale": [1.5, 1.5, 1.5]
+        }
+      }
+    }
+  }
+}

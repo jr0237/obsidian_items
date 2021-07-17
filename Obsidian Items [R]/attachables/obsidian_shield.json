@@ -1,0 +1,29 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "obsidian_items:obsidian_shield",
+      "materials": { "default": "shield" },
+      "textures": {
+        "obsidian_shield": "textures/entity/obsidian_shield",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "geometry": {
+        "default": "geometry.obsidian_shield.main_hand",
+        "off_hand": "geometry.obsidian_shield.off_hand"
+      },
+      "animations": {
+        "primera": "animation.player.obsidian_shield.main_hand.first_person"
+      },
+
+      "scripts": {
+        "animate": [
+          {
+            "primera": "c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'obsidian_shield'"
+          }
+        ]
+      },
+      "render_controllers": ["controller.render.obsidian_shield_render"]
+    }
+  }
+}
