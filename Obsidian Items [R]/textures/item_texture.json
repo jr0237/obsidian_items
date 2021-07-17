@@ -32,11 +32,14 @@
     "obsidian_chestplate": {
       "textures": "textures/items/obsidian_chestplate"
     },
-    "obsidian_leggings":{
+    "obsidian_leggings": {
       "textures": "textures/items/obsidian_leggings"
     },
-    "obsidian_boots":{
+    "obsidian_boots": {
       "textures": "textures/items/obsidian_boots"
+    },
+    "obsidian_shield": {
+      "textures": "textures/items/obsidian_shield"
     }
   }
 }
