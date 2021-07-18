@@ -28,7 +28,9 @@ Para poder instalar el addon abre el archivo con extensión <code>.mcaddon</code
 ```
 
 - versión 1.2:
-	Se añade el escudo de obsidiana. Aunque por el momento solo funciona en la mano principal y se renderiza mal en la mano secundaria.
+	Se añade el escudo de obsidiana. Aunque por el momento
+	solo funciona en la mano principal y se renderiza mal 
+	en la mano secundaria.
 
 - versión 1.1:
 	Se corrigieron los comportamientos de desgaste de las 
