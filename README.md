@@ -1,4 +1,5 @@
 ﻿﻿# Obsidian_Items
+
 El addon añade nuevas herramientas de obsidiana, además de algunos materiales nuevos para la creación de las herramientas y armaduras.
 
 ### Indice:
@@ -10,9 +11,13 @@ El addon añade nuevas herramientas de obsidiana, además de algunos materiales 
 
 
 # Descargas
-Para descargar el addon abre el siguiente enlace:
+Para descargar la version mas reciente del addon abre el siguiente enlace:
 
-[<code>Obsidian Items_v1.1.mcaddon</code>](https://github.com/jr0237/obsidian_items/raw/master/export/release/Obsidian%20Items_v1.1.mcaddon)
+[<code>Obsidian Items_v1.2.mcaddon</code>](https://github.com/jr0237/obsidian_items/raw/master/export/release/Obsidian%20Items_v1.2.mcaddon)
+
+Si quieres descargar una version anterior abre el siguiente enlace:
+
+[<code>Otras versiones</code>](https://github.com/jr0237/obsidian_items/raw/master/export/others/)
 
 ### Instalación
 Para poder instalar el addon abre el archivo con extensión <code>.mcaddon</code> que descargaste anteriormente y el archivo se importara automáticamente.
@@ -20,6 +25,10 @@ Para poder instalar el addon abre el archivo con extensión <code>.mcaddon</code
 # Registro de cambios
 
 ```
+
+- versión 1.2:
+	Se añade el escudo de obsidiana. Aunque por el momento solo funciona en la mano principal y se renderiza mal en la mano secundaria.
+
 - versión 1.1:
 	Se corrigieron los comportamientos de desgaste de las 
 	herramientas añadiendo un evento ("minecraft:break").
@@ -30,6 +39,7 @@ Para poder instalar el addon abre el archivo con extensión <code>.mcaddon</code
 
  - versión 1:
  versión inicial
+
 ```
 # Materiales
 
@@ -41,7 +51,7 @@ Se introducen nuevos materiales como lo son:
 
 El fragmento pequeño se obtiene al pasar un bloque de obsidiana por el cortador de piedra.
 
-![enter image description here](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/stonecuuter2.png)
+![Fragmento pequeño obtenido a traves del cortapiedras](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/stonecuuter2.png)
 ##
 > **Fragmento de obsidiana**
 >
@@ -58,13 +68,14 @@ El fragmento de obsidiana se usa para crear las herramientas y armadura. Se pued
 
 El lingote de obsidiana se obtiene **unicamente** fundiendo un **fragmento de obsidiana** en el **horno de fusión**.
 
-![enter image description here](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/blast_furnace2.png)
+![Lingote de obsidiana obtenido atraves del horno de fusión](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/blast_furnace2.png)
 
 > Horno de fusión
 >
 > <img src="https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/blast_furnace_gif_.gif" width="100">
 
 # Herramientas
+![Escudo de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_shield.png)
 ![Espada de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_sword.png)
 ![Hacha de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_axe.png)
 ![Pico de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_pickaxe.png)
@@ -72,6 +83,24 @@ El lingote de obsidiana se obtiene **unicamente** fundiendo un **fragmento de ob
 ![Pala de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_shovel.png)
 
 Se añaden nuevas herramientas como:
+
+> **Escudo de obsidiana**
+>
+>![Escudo de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/items/obsidian_shield.gif)
+>
+> **Durabilidad**: 436
+> 
+> **Reparable**: Si (Lingotes de obsidiana, +109 por lingote)
+>
+> **Encantamientos**: Si (Escudos)
+>
+>
+
+>
+>**Receta - Escudo de obsidiana**
+>
+>![Receta de espada de obsidiana](https://github.com/jr0237/obsidian_items/raw/master/scr/images/capturas/recipes/cropped-images/crafting_table_shield.png)
+##
 
 > **Espada de obsidiana**
 >

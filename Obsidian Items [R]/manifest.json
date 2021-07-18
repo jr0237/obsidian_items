@@ -6,9 +6,9 @@
     "license": "GNU GENERAL PUBLIC LICENSE"
   },
   "header": {
-    "name": "§2[R]§r Obsidian items §7[v1.1]§r",
+    "name": "§2[R]§r Obsidian items §7[v1.2]§r",
     "description": "Obsidian items",
-    "version": [0, 1, 1],
+    "version": [1, 2, 0],
     "min_engine_version": [1, 16, 100],
     "uuid": "3ec8c357-f3f5-4534-b557-6706a044ac0c"
   },
@@ -16,13 +16,13 @@
     {
       "type": "resources",
       "description": "Obsidian items",
-      "version": [0, 1, 1],
+      "version": [1, 2, 0],
       "uuid": "a08e9cc7-f13f-49ae-9b79-4e80afbea79b"
     }
   ],
   "dependencies": [
     {
-      "version": [0, 1, 1],
+      "version": [1, 2, 0],
       "uuid": "0c5a7288-f34f-4a19-a895-7644fb73cf05"
     }
   ]

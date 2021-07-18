@@ -1,0 +1,39 @@
+{
+  "format_version": "1.10.0",
+  "animation_controllers": {
+    "controller.animation.obsidian_shield": {
+      "states": {
+        "default": {
+          "transitions": [
+            {
+              "obsidian_shield": "query.get_equipped_item_name('main_hand') == 'obsidian_shield' || query.get_equipped_item_name('off_hand') == 'obsidian_shield' && query.is_sneaking"
+            },
+            {
+              "unprotected": "(query.get_equipped_item_name('main_hand') != 'obsidian_shield') || (query.get_equipped_item_name('off_hand') != 'obsidian_shield')"
+            }
+          ]
+        },
+
+        "obsidian_shield": {
+          "on_entry": [
+            "/tag @s obs_i:protected",
+            "@s obsidian_items:add_shield_invincible"
+          ],
+          "transitions": [
+            {
+              "default": "(1.0)"
+            }
+          ]
+        },
+        "unprotected": {
+          "on_entry": ["@s obsidian_items:remove_shield_invincible"],
+          "transitions": [
+            {
+              "default": "(1.0)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
