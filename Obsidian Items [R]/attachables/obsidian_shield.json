@@ -13,13 +13,17 @@
         "off_hand": "geometry.obsidian_shield.off_hand"
       },
       "animations": {
-        "primera": "animation.player.obsidian_shield.main_hand.first_person"
+        "primera": "animation.player.obsidian_shield.main_hand.first_person",
+        "primera_main_block": "animation.player.obsidian_shield.main_hand.blocking.first_person"
       },
 
       "scripts": {
         "animate": [
           {
-            "primera": "c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'obsidian_shield'"
+            "primera": "!query.is_sneaking && c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'obsidian_shield'"
+          },
+          {
+            "primera_main_block": "query.is_sneaking && c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'obsidian_shield'"
           }
         ]
       },
